@@ -43,7 +43,7 @@ python3 --version
 ```
 
 
-## Para probra el programa hay que instalar las dependecias.
+## Para ejecutar el programa hay que instalar las dependecias.
 ```
 pip install flet imutils numpy opencv-python
 ```
