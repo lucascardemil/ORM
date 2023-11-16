@@ -1,7 +1,7 @@
-Instalación de Python
+#Instalación de Python
 Este repositorio contiene instrucciones para instalar Python en sistemas Windows y macOS.
 
-Windows
+##Windows
 Pasos para la instalación:
 Descargar Python:
 
@@ -21,7 +21,7 @@ Abre la línea de comandos (cmd) y ejecuta el siguiente comando:
 python --version
 
 
-macOS
+##macOS
 Pasos para la instalación:
 Instalar Homebrew:
 
