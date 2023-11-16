@@ -41,3 +41,13 @@ Después de la instalación, verifica la versión de Python con el siguiente com
 ```
 python3 --version
 ```
+
+
+## Para probra el programa hay que instalar las dependecias.
+```
+pip install flet imutils numpy opencv-python
+```
+Despues de instalar, se debe ejecutar el archivo main.py, si tienes instalado vscode lo puedes hacer mediante de la flecha arriba a la derecha. o mediante este comando.
+```
+python main.py
+```
